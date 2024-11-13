@@ -1,5 +1,3 @@
-Here’s a simple `README.md` for your project in English:
-
 ```markdown
 # CryptoMaster - AES Encryption and Decryption
 
